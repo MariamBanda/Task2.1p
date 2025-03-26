@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#3F51B5</color>
+    <color name="primary_light">#8C9EFF</color>
+    <color name="accent_color">#00C853</color>
+
+    <!-- Background and Text Colors -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="text_color">#212121</color>
+    <color name="hint_color">#757575</color>
+</resources>
+
